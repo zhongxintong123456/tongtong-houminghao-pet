@@ -1,0 +1,21 @@
+{
+  "atlas": {
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  "quality": {
+    "passed": true,
+    "errors": [],
+    "warnings": [
+      "157.5->180 diff is a local outlier (1959 pixels vs neighbor average 1144)"
+    ],
+    "warning_review": "157.5°到180°的像素差异较大；已目视核对方向和衔接，并通过独立方向盲审。"
+  },
+  "blind_directions": {
+    "passed": true,
+    "errors": [],
+    "warnings": []
+  },
+  "sha256": "a8a70321f317227fb502d1f01ca5434d5cb5637efad79eec462e60423c0f7dd5"
+}
